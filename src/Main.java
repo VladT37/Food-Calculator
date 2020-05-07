@@ -92,7 +92,9 @@ public class Main {
 
         Main.savedIngredientsFileClass.updateFile();
 
-        System.out.println("\n\n        WELCOME TO FOOD CALCULATOR\n");
+        System.out.println("\n\n            WELCOME TO FOOD CALCULATOR");
+        System.out.println("USE THIS CALCULATOR TO TRACK ANY RECIPE'S AVERAGE MACRONUTRIENTS");
+        System.out.println("TIP: You can also  the amount for a serving only\n");
         while(!hasQuit) {
             // the application will run until the user decides to quit
             // on quit, chooseKey will return, making the hasQuit variable true

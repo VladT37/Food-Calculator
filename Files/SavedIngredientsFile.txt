@@ -1,0 +1,10 @@
+Pasta | 13 | 65 | 2
+Ground pork beef mix | 18 | 0 | 10
+Mozzarella light | 25 | 2 | 10
+Tomato sauce | 1 | 6 | 0
+Chicken breast | 26 | 0 | 4
+Mashed potatoes | 1.8 | 1.8 | 3
+Mexico mix | 4.5 | 7 | 4.5
+Broccoli | 3 | 3 | 0
+Beans | 8.5 | 12 | 8.5
+Da | 1 | 1 | 1
